@@ -1,0 +1,57 @@
+/* Stylesheet for Evidence 3 */
+
+html body {
+	vertical-align: top;
+	margin: 0;
+	padding: 0;
+	color: #2B044B; /* Text Color */
+	font-family: Times New Roman; /* Font for the text */
+	font-weight: 20px; /* Weight for the text */
+	font-size: 1em;
+	background-color:#F5C3DF;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	vertical-align: top;
+	font-weight: 20px; 
+			color:#2B044B;
+	    font-family: times new roman;
+		font-size: 20px;
+}
+
+header, section {
+	vertical-align: top;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+ul li {
+	vertical-align: top;
+	display: inline-block;
+	padding: 5px;
+}
+nav a {
+	text-decoration: none;
+	color: #2B044B; 
+}
+	.start {
+		background-color: #B5FFFD;
+		margin:0px;
+		padding:20px:
+	}
+
+	.what{
+		background-color: #EDC5FF;
+		margin: 0px;
+		padding: 0px;
+	}
+.why{
+	background-color: #ACFFD7;
+		margin: 0px;
+		padding: 0px;
+}
+.learn {
+	background-image:url(friends7.jpg);
+		margin:0px;
+	padding: 0px;
+}
